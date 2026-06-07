@@ -1,7 +1,7 @@
 <div align="center">
   <br>
 
-  <h1><img src="https://img.icons8.com/ios/256/FFFFFF/detective.png" width="35" valign="middle">&nbsp; GUÍA MAESTRA DE INFORMÁTICA FORENSE Y RESPUESTA A INCIDENTES</h1>
+  <h1 id="inicio"><img src="https://img.icons8.com/ios/256/FFFFFF/detective.png" width="35" valign="middle">&nbsp; GUÍA MAESTRA DE INFORMÁTICA FORENSE Y RESPUESTA A INCIDENTES</h1>
 
   <p><strong>Tu referencia definitiva para herramientas, técnicas y procedimientos en DFIR.</strong></p>
 
@@ -231,5 +231,5 @@ Si el presupuesto lo permite, estas son las herramientas estándar en cuerpos po
   <br>
   <sub>Desarrollado por <strong>Ph0e-Nyx</strong></sub>
   <br><br>
-  <a href="#"><img src="https://img.shields.io/badge/Volver_al_inicio-000000?style=for-the-badge&logo=up-arrow&logoColor=white"></a>
+  <a href="#inicio"><img src="https://img.shields.io/badge/Volver_al_inicio-000000?style=for-the-badge&logo=up-arrow&logoColor=white"></a>
 </div>
